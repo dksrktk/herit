@@ -1,0 +1,11 @@
+{
+  "name": "herit-estate-service",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Herit estate planning service interface for inheritance real estate trust diagnosis.",
+  "scripts": {
+    "start": "python3 -m http.server 5173",
+    "dev": "python3 -m http.server 5173",
+    "preview": "python3 -m http.server 5173"
+  }
+}
